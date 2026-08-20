@@ -115,10 +115,3 @@ The system was tested with the following credentials and ran successfully:
 
 ---
 
-## 🛠️ Tech Stack
-
-- **Language:** C#
-- **Framework:** .NET Windows Forms
-- **Database:** SQL Server
-- **Data Access:** `System.Data.SqlClient`
-
